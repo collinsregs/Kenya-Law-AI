@@ -9,12 +9,17 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.action_chains import ActionChains
 import os
 from dotenv import load_dotenv
+from neo4j import GraphDatabase
 
 # Load environment variables from .env file
 load_dotenv()
 
 # Get the BASE_URL from the environment variables
 BASE_URL = os.getenv("BASE_URL")
+
+NEO4J_URI = "bolt://localhost:7687"
+NEO4J_USER = "neo4j"
+NEO4J_PASSWORD = "password"
 
 global_section_index = 1
 constitutionUrl = "/akn/ke/act/2010/constitution/eng@2010-09-03";
@@ -172,14 +177,80 @@ def getPara(subSectionContainer,subSectionClass):
     return para_object
 
 
+def create_nodes_recursively(tx, data, parent_id=None, node_label="Node", node_name=None):
+    # If no parent exists, create a root node with label Constitution
+    if parent_id is None:
+        primitive_props = {k: v for k, v in data.items()
+                           if isinstance(v, (str, int, float, bool)) or 
+                              (isinstance(v, list) and all(isinstance(item, (str, int, float, bool)) for item in v))}
+        result = tx.run(
+            "CREATE (n:Constitution) SET n += $props RETURN elementId(n) AS node_id", 
+            props=primitive_props
+        )
+        parent_id = result.single()["node_id"]
+    
+    for key, value in data.items():
+        if isinstance(value, dict):
+            child_props = {k: v for k, v in value.items()
+                           if isinstance(v, (str, int, float, bool)) or 
+                              (isinstance(v, list) and all(isinstance(x, (str, int, float, bool)) for x in v))}
+            # Inject the label into the query string.
+            query = "CREATE (n:" + node_label + " {name: $name}) SET n += $props RETURN elementId(n) AS node_id"
+            result = tx.run(query, name=key, props=child_props)
+            child_id = result.single()["node_id"]
+            tx.run(
+                "MATCH (p), (c) WHERE elementId(p) = $parent_id AND elementId(c) = $child_id "
+                "CREATE (p)-[:HAS_CHILD]->(c)",
+                parent_id=parent_id, child_id=child_id
+            )
+            create_nodes_recursively(tx, value, parent_id=child_id, node_label=node_label, node_name=key)
+        elif isinstance(value, list):
+            for item in value:
+                if isinstance(item, dict):
+                    child_props = {k: v for k, v in item.items()
+                                   if isinstance(v, (str, int, float, bool)) or 
+                                      (isinstance(v, list) and all(isinstance(x, (str, int, float, bool)) for x in v))}
+                    query = "CREATE (n:" + node_label + " {name: $name}) SET n += $props RETURN elementId(n) AS node_id"
+                    result = tx.run(query, name=key, props=child_props)
+                    child_id = result.single()["node_id"]
+                    tx.run(
+                        "MATCH (p), (c) WHERE elementId(p) = $parent_id AND elementId(c) = $child_id "
+                        "CREATE (p)-[:HAS_CHILD]->(c)",
+                        parent_id=parent_id, child_id=child_id
+                    )
+                    create_nodes_recursively(tx, item, parent_id=child_id, node_label=node_label, node_name=key)
+                else:
+                    tx.run(
+                        "MATCH (n) WHERE elementId(n) = $parent_id "
+                        "SET n[$key] = coalesce(n[$key], []) + $value",
+                        parent_id=parent_id, key=key, value=item
+                    )
+        else:
+            tx.run(
+                "MATCH (n) WHERE elementId(n) = $parent_id SET n[$key] = $value",
+                parent_id=parent_id, key=key, value=value
+            )
+    return parent_id
+
+def insert_hierarchy(data):
+    """
+    Opens a connection to Neo4j, writes the hierarchical data in a transaction, and closes the connection.
+    """
+    driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
+    with driver.session() as session:
+        session.execute_write(create_nodes_recursively, data)
+    driver.close()
+
 
 def main():
     # get url, driver and connect
+    constitution ={}
     url = BASE_URL+constitutionUrl
     driver = webdriver.Chrome()
     driver.get(url)
-    content = getChapter(driver=driver)
-    # print(content)
+    constitution["cover page"] = getCoverPage(driver)
+    constitution["content"] = getChapter(driver)
+    insert_hierarchy(constitution)
 
 
     time.sleep(5)
