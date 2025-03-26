@@ -1,0 +1,1091 @@
+[
+  {
+    "classification": "Superior Courts",
+    "courts": [
+      {
+        "name": "Supreme Court",
+        "link": "https://new.kenyalaw.org/judgments/KESC/",
+        "stations": [
+          {
+            "name": "Supreme Court of Kenya",
+            "link": "https://new.kenyalaw.org/judgments/KESC/SCK/"
+          }
+        ]
+      },
+      {
+        "name": "Court of Appeal",
+        "link": "https://new.kenyalaw.org/judgments/KECA/",
+        "stations": [
+          {
+            "name": "Court of Appeal at Busia",
+            "link": "https://new.kenyalaw.org/judgments/KECA/COABS/"
+          },
+          {
+            "name": "Court of Appeal at Eldoret",
+            "link": "https://new.kenyalaw.org/judgments/KECA/COAELD/"
+          },
+          {
+            "name": "Court of Appeal at Kakamega",
+            "link": "https://new.kenyalaw.org/judgments/KECA/KECA-court-of-appeal-at-kakamega/"
+          },
+          {
+            "name": "Court of Appeal at Kisii",
+            "link": "https://new.kenyalaw.org/judgments/KECA/COAKS/"
+          },
+          {
+            "name": "Court of Appeal at Kisumu",
+            "link": "https://new.kenyalaw.org/judgments/KECA/COAKSM/"
+          },
+          {
+            "name": "Court of Appeal at Malindi",
+            "link": "https://new.kenyalaw.org/judgments/KECA/COAML/"
+          },
+          {
+            "name": "Court of Appeal at Mombasa",
+            "link": "https://new.kenyalaw.org/judgments/KECA/CAMS/"
+          },
+          {
+            "name": "Court of Appeal at Nairobi",
+            "link": "https://new.kenyalaw.org/judgments/KECA/CANRB/"
+          },
+          {
+            "name": "Court of Appeal at Nakuru",
+            "link": "https://new.kenyalaw.org/judgments/KECA/CANKR/"
+          },
+          {
+            "name": "Court of Appeal at Nyeri",
+            "link": "https://new.kenyalaw.org/judgments/KECA/CANYR/"
+          }
+        ]
+      },
+      {
+        "name": "High Court",
+        "link": "https://new.kenyalaw.org/judgments/KEHC/",
+        "stations": [
+          {
+            "name": "High Court at Bomet",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCBT/"
+          },
+          {
+            "name": "High Court at Bungoma",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCBG/"
+          },
+          {
+            "name": "High Court at Busia",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCBS/"
+          },
+          {
+            "name": "High Court at Chuka",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCCK/"
+          },
+          {
+            "name": "High Court at Eldama Ravine",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCER/"
+          },
+          {
+            "name": "High Court at Eldoret",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCELD/"
+          },
+          {
+            "name": "High Court at Embu",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCEMB/"
+          },
+          {
+            "name": "High Court at Garissa",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCGR/"
+          },
+          {
+            "name": "High Court at Garsen",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCGRSN/"
+          },
+          {
+            "name": "High Court at Homa Bay",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCH/"
+          },
+          {
+            "name": "High Court at Isiolo",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/KEHC-high-court-at-isiolo/"
+          },
+          {
+            "name": "High Court at Iten",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/KEHC-high-court-at-iten/"
+          },
+          {
+            "name": "High Court at Kabarnet",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCKBR/"
+          },
+          {
+            "name": "High Court at Kajiado",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCKJ/"
+          },
+          {
+            "name": "High Court at Kakamega",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCKKG/"
+          },
+          {
+            "name": "High Court at Kapenguria",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCKAP/"
+          },
+          {
+            "name": "High Court at Kapsabet",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/KEHC-high-court-at-kapsabet/"
+          },
+          {
+            "name": "High Court at Kericho",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCKRC/"
+          },
+          {
+            "name": "High Court at Kerugoya",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCKRU/"
+          },
+          {
+            "name": "High Court at Kiambu",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCKB/"
+          },
+          {
+            "name": "High Court at Kibera",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCKIB/"
+          },
+          {
+            "name": "High Court at Kilgoris",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/KEHC-high-court-at-kilgoris/"
+          },
+          {
+            "name": "High Court at Kisii",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCKSI/"
+          },
+          {
+            "name": "High Court at Kisumu",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCKSM/"
+          },
+          {
+            "name": "High Court at Kitale",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCKTL/"
+          },
+          {
+            "name": "High Court at Kitui",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCKT/"
+          },
+          {
+            "name": "High Court at Kwale",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCKWL/"
+          },
+          {
+            "name": "High Court at Lodwar",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCLD/"
+          },
+          {
+            "name": "High Court at Machakos",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCMKS/"
+          },
+          {
+            "name": "High Court at Makadara",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/KEHC-high-court-at-makadara/"
+          },
+          {
+            "name": "High Court at Makueni",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCMKN/"
+          },
+          {
+            "name": "High Court at Malindi",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCMLD/"
+          },
+          {
+            "name": "High Court at Mandera",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCMDR/"
+          },
+          {
+            "name": "High Court at Maralal",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/KEHC-high-court-at-maralal/"
+          },
+          {
+            "name": "High Court at Marsabit",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCMRS/"
+          },
+          {
+            "name": "High Court at Meru",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCMRU/"
+          },
+          {
+            "name": "High Court at Migori",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCM/"
+          },
+          {
+            "name": "High Court at Mombasa",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCMSA/"
+          },
+          {
+            "name": "High Court at Moyale",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/KEHC-high-court-at-moyale/"
+          },
+          {
+            "name": "High Court at Murang'a",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCMR/"
+          },
+          {
+            "name": "High Court at Nairobi (Milimani Commercial Courts)",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCNRBMCC/"
+          },
+          {
+            "name": "High Court at Nairobi (Milimani Law Courts)",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCNRB/"
+          },
+          {
+            "name": "High Court at Naivasha",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCNVS/"
+          },
+          {
+            "name": "High Court at Nakuru",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCNKR/"
+          },
+          {
+            "name": "High Court at Nanyuki",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCNYK/"
+          },
+          {
+            "name": "High Court at Narok",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCNRK/"
+          },
+          {
+            "name": "High Court at Nyahururu",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCNYRR/"
+          },
+          {
+            "name": "High Court at Nyamira",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCNYAM/"
+          },
+          {
+            "name": "High Court at Nyandarua",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/KEHC-high-court-nyandarua/"
+          },
+          {
+            "name": "High Court at Nyeri",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCNYR/"
+          },
+          {
+            "name": "High Court at Siaya",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCS/"
+          },
+          {
+            "name": "High Court at Thika",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCTHK/"
+          },
+          {
+            "name": "High Court at Vihiga",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/KEHC-high-court-at-vihiga/"
+          },
+          {
+            "name": "High Court at Voi",
+            "link": "https://new.kenyalaw.org/judgments/KEHC/HCV/"
+          }
+        ]
+      },
+      {
+        "name": "Employment and Labour Relations Court",
+        "link": "https://new.kenyalaw.org/judgments/KEELRC/",
+        "stations": [
+          {
+            "name": "Employment and Labour Relations at Garissa",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/KEELRC-employment-and-labour-relations-at-garissa/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Bungoma",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/ELRBNG/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Eldoret",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/ELRELD/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Kakamega",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/KEELRC-employment-and-labour-relations-court-at-kakamega/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Kericho",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/ELRKRC/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Kisii",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/KEELRC-employment-and-labour-relations-court-at-kisii/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Kisumu",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/ELRKSM/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Kitale",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/KEELRC-employment-and-labour-relations-court-at-kitale/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Machakos",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/KEELRC-employment-and-labour-relations-court-at-machakos/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Malindi",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/ELRMLD/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Meru",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/ELRMRU/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Mombasa",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/ELRMSA/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Nairobi",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/ELRNRB/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Nakuru",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/ELRNKR/"
+          },
+          {
+            "name": "Employment and Labour Relations Court at Nyeri",
+            "link": "https://new.kenyalaw.org/judgments/KEELRC/ELRNYR/"
+          }
+        ]
+      },
+      {
+        "name": "Environment and Land Court",
+        "link": "https://new.kenyalaw.org/judgments/KEELC/",
+        "stations": [
+          {
+            "name": "Environment and Land Court at Bungoma",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCBN/"
+          },
+          {
+            "name": "Environment and Land Court at Busia",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCBS/"
+          },
+          {
+            "name": "Environment and Land Court at Chuka",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCC/"
+          },
+          {
+            "name": "Environment and Land Court at Eldoret",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCELD/"
+          },
+          {
+            "name": "Environment and Land Court at Embu",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCE/"
+          },
+          {
+            "name": "Environment and Land Court at Garissa",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCG/"
+          },
+          {
+            "name": "Environment and Land Court at Homa Bay",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-homa-bay/"
+          },
+          {
+            "name": "Environment and Land Court at Isiolo",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-isiolo/"
+          },
+          {
+            "name": "Environment and Land Court at Iten",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-iten/"
+          },
+          {
+            "name": "Environment and Land Court at Kabarnet",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-kabarnet/"
+          },
+          {
+            "name": "Environment and Land Court at Kajiado",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCKK/"
+          },
+          {
+            "name": "Environment and Land Court at Kakamega",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-kakamega/"
+          },
+          {
+            "name": "Environment and Land Court at Kapsabet",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-kapsabet/"
+          },
+          {
+            "name": "Environment and Land Court at Kericho",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCKRC/"
+          },
+          {
+            "name": "Environment and Land Court at Kerugoya",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCKRU/"
+          },
+          {
+            "name": "Environment and Land Court at Kilgoris",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-kilgoris/"
+          },
+          {
+            "name": "Environment and Land Court at Kisii",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCKSI/"
+          },
+          {
+            "name": "Environment and Land Court at Kisumu",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCKS/"
+          },
+          {
+            "name": "Environment and Land Court at Kitale",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCKTL/"
+          },
+          {
+            "name": "Environment and Land Court at Kitui",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-kitui/"
+          },
+          {
+            "name": "Environment and Land Court at Kwale",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCKW/"
+          },
+          {
+            "name": "Environment and Land Court at Lodwar",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-lodwar/"
+          },
+          {
+            "name": "Environment and Land Court at Machakos",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCMKS/"
+          },
+          {
+            "name": "Environment and Land Court at Makueni",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCMU/"
+          },
+          {
+            "name": "Environment and Land Court at Malindi",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCML/"
+          },
+          {
+            "name": "Environment and Land Court at Meru",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCMRU/"
+          },
+          {
+            "name": "Environment and Land Court at Migori",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCMG/"
+          },
+          {
+            "name": "Environment and Land Court at Mombasa",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCMSA/"
+          },
+          {
+            "name": "Environment and Land Court at Muranga",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCMR/"
+          },
+          {
+            "name": "Environment and Land Court at Nairobi",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCNRB/"
+          },
+          {
+            "name": "Environment and Land Court at Naivasha",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-naivasha/"
+          },
+          {
+            "name": "Environment and Land Court at Nakuru",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCNKR/"
+          },
+          {
+            "name": "Environment and Land Court at Nanyuki",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-nanyuki/"
+          },
+          {
+            "name": "Environment and Land Court at Narok",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCNR/"
+          },
+          {
+            "name": "Environment and Land Court at Nyahururu",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCNYHR/"
+          },
+          {
+            "name": "Environment and Land Court at Nyamira",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-nyamira/"
+          },
+          {
+            "name": "Environment and Land Court at Nyandarua",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCND/"
+          },
+          {
+            "name": "Environment and Land Court at Nyeri",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCNYR/"
+          },
+          {
+            "name": "Environment and Land Court at Ol Kalou",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-ol-kalou/"
+          },
+          {
+            "name": "Environment and Land Court at Ruiru",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-ruiru/"
+          },
+          {
+            "name": "Environment and Land Court at Siaya",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-siaya/"
+          },
+          {
+            "name": "Environment and Land Court at Thika",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/ELCTHK/"
+          },
+          {
+            "name": "Environment and Land Court at Vihiga",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-vihiga/"
+          },
+          {
+            "name": "Environment and Land Court at Voi",
+            "link": "https://new.kenyalaw.org/judgments/KEELC/KEELC-environment-and-land-court-at-voi/"
+          }
+        ]
+      },
+      {
+        "name": "Industrial Court",
+        "link": "https://new.kenyalaw.org/judgments/KEIC/",
+        "stations": [
+          {
+            "name": "Industrial Court at Nairobi",
+            "link": "https://new.kenyalaw.org/judgments/KEIC/KEIC-industrial-court-at-nairobi/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "classification": "Subordinate Courts",
+    "courts": [
+      {
+        "name": "Magistrate's Court",
+        "link": "https://new.kenyalaw.org/judgments/KEMC/",
+        "stations": [
+          {
+            "name": "Anti-Corruption Magistrate's Court",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/ACMC/"
+          },
+          {
+            "name": "Bomet Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-bomet-law-courts/"
+          },
+          {
+            "name": "Chief Magistrate's Court (Milimani Law Courts)",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-chief-magistrates-court-milimani-law-courts/"
+          },
+          {
+            "name": "Daadab Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-daadab-law-courts/"
+          },
+          {
+            "name": "Election Petition in Magistrate Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/EPMC/"
+          },
+          {
+            "name": "Garissa Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-garissa-law-courts/"
+          },
+          {
+            "name": "Garsen Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-garsen-law-courts/"
+          },
+          {
+            "name": "Githongo Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-githongo-law-courts/"
+          },
+          {
+            "name": "Hola Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-hola-law-courts/"
+          },
+          {
+            "name": "Kahawa Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-kahawa-law-courts/"
+          },
+          {
+            "name": "Kericho Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-kericho-law-courts/"
+          },
+          {
+            "name": "Kiambu Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-kiambu-law-courts/"
+          },
+          {
+            "name": "Kibera Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-kibera-law-courts/"
+          },
+          {
+            "name": "Kilifi Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-kilifi-law-courts/"
+          },
+          {
+            "name": "Kwale Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-kwale-law-courts/"
+          },
+          {
+            "name": "Lamu Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-lamu-law-courts/"
+          },
+          {
+            "name": "Limuru Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-limuru-law-courts/"
+          },
+          {
+            "name": "Machakos Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-machakos-law-courts/"
+          },
+          {
+            "name": "Makindu Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-makindu-law-courts/"
+          },
+          {
+            "name": "Mandera Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-mandera-law-courts/"
+          },
+          {
+            "name": "Maralal Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-maralal-law-courts/"
+          },
+          {
+            "name": "Meru Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-meru-law-courts/"
+          },
+          {
+            "name": "Migori Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-migori-law-courts/"
+          },
+          {
+            "name": "Milimani Commercial Chief Magistrate's Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-milimani-commercial-chief-magistrates-courts/"
+          },
+          {
+            "name": "Mombasa Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-mombasa-law-courts/"
+          },
+          {
+            "name": "Mpeketoni Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-mpeketoni-law-courts/"
+          },
+          {
+            "name": "Mutomo Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-mutomo-law-courts/"
+          },
+          {
+            "name": "Naivasha Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-naivasha-law-courts/"
+          },
+          {
+            "name": "Nakuru Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-nakuru-law-courts/"
+          },
+          {
+            "name": "Narok Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-narok-law-courts/"
+          },
+          {
+            "name": "Nyamira Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-nyamira-law-courts/"
+          },
+          {
+            "name": "Nyeri Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-nyeri-law-courts/"
+          },
+          {
+            "name": "Oyugis Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-oyugis-law-courts/"
+          },
+          {
+            "name": "Shanzu Law Courts",
+            "link": "https://new.kenyalaw.org/judgments/KEMC/KEMC-shanzu-law-courts/"
+          }
+        ]
+      },
+      {
+        "name": "Kadhis Courts",
+        "link": "https://new.kenyalaw.org/judgments/KEKC/",
+        "stations": [
+          {
+            "name": "Kadhis Court at Bungoma",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCBGM/"
+          },
+          {
+            "name": "Kadhis Court at Busia",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCBS/"
+          },
+          {
+            "name": "Kadhis Court at Garbatulla",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCGRB/"
+          },
+          {
+            "name": "Kadhis Court at Garsen",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCGRN/"
+          },
+          {
+            "name": "Kadhis Court at Hamisi",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCHMS/"
+          },
+          {
+            "name": "Kadhis Court at Hola",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCHL/"
+          },
+          {
+            "name": "Kadhis Court at Homa Bay",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCHB/"
+          },
+          {
+            "name": "Kadhis Court at Isiolo",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCIS/"
+          },
+          {
+            "name": "Kadhis Court at Kericho",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCKRC/"
+          },
+          {
+            "name": "Kadhis Court at Kisumu",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCKSM/"
+          },
+          {
+            "name": "Kadhis Court at Malindi",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCMLD/"
+          },
+          {
+            "name": "Kadhis Court at Marsabit",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCMRS/"
+          },
+          {
+            "name": "Kadhis Court at Merti",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCMRT/"
+          },
+          {
+            "name": "Kadhis Court at Meru",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCM/"
+          },
+          {
+            "name": "Kadhis Court at Mombasa",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCMSA/"
+          },
+          {
+            "name": "Kadhis Court at Moyale",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCMY/"
+          },
+          {
+            "name": "Kadhis Court at Nairobi (Kibera Law Courts)",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCNK/"
+          },
+          {
+            "name": "Kadhis Court at Nairobi (Milimani Commercial Court)",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCNM/"
+          },
+          {
+            "name": "Kadhis Court at Nakuru",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCNKR/"
+          },
+          {
+            "name": "Kadhis Court at Nyeri",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCNY/"
+          },
+          {
+            "name": "Kadhi’s Court at Upper Hill (Nairobi Milimani Law Courts)",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KEKC-kadhis-court-at-upper-hill-nairobi-milimani-law-courts/"
+          },
+          {
+            "name": "Kadhis Court at Voi",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCV/"
+          },
+          {
+            "name": "Kadhis Court at Wajir",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCWJ/"
+          },
+          {
+            "name": "Kadhis Court at Wajir (Habaswein)",
+            "link": "https://new.kenyalaw.org/judgments/KEKC/KCWJH/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "classification": "Small Claims Court",
+    "courts": [
+      {
+        "name": "Small Claims Court",
+        "link": "https://new.kenyalaw.org/judgments/SCC/",
+        "stations": [
+          {
+            "name": "Milimani Small Claims Court",
+            "link": "https://new.kenyalaw.org/judgments/SCC/SCC-milimani-small-claims-court/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "classification": "Civil and Human Rights Tribunals",
+    "courts": [
+      {
+        "name": "Communication and Multimedia Appeals Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KECMAT/",
+        "stations": []
+      },
+      {
+        "name": "Education Appeals Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KEEAT/",
+        "stations": []
+      },
+      {
+        "name": "HIV and AIDS Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KEHAT/",
+        "stations": []
+      },
+      {
+        "name": "Legal Education Appeals Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KELEAT/",
+        "stations": []
+      },
+      {
+        "name": "Political Parties Disputes Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KEPPDT/",
+        "stations": []
+      },
+      {
+        "name": "Sports Disputes Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KESDT/",
+        "stations": []
+      },
+      {
+        "name": "State Corporations Appeals Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KESCAT/",
+        "stations": []
+      }
+    ]
+  },
+  {
+    "classification": "Commercial Tribunals",
+    "courts": [
+      {
+        "name": "Capital Markets Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KECMT/",
+        "stations": []
+      },
+      {
+        "name": "Competition Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KECT/",
+        "stations": []
+      },
+      {
+        "name": "Cooperative Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KECPT/",
+        "stations": []
+      },
+      {
+        "name": "Insurance Appeals Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KEIAT/",
+        "stations": []
+      },
+      {
+        "name": "Micro and Small Enterprises Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KEMSET/",
+        "stations": []
+      },
+      {
+        "name": "National Civil Aviation Administrative Review Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KENCCART/",
+        "stations": []
+      },
+      {
+        "name": "Standards Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KEST/",
+        "stations": []
+      },
+      {
+        "name": "Tax Appeal Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KETAT/",
+        "stations": []
+      },
+      {
+        "name": "Transport Licensing Appeals Board Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KETLABT/",
+        "stations": []
+      }
+    ]
+  },
+  {
+    "classification": "Environment and Land Tribunals",
+    "courts": [
+      {
+        "name": "Business Premises Rent Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KEBPRT/",
+        "stations": []
+      },
+      {
+        "name": "Energy & Petroleum Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KEET/",
+        "stations": []
+      },
+      {
+        "name": "Land Acquisition Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KELAT/",
+        "stations": []
+      },
+      {
+        "name": "National Environment Tribunal - Nairobi",
+        "link": "https://new.kenyalaw.org/judgments/KENET/",
+        "stations": []
+      },
+      {
+        "name": "Rent Restriction Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KERRT/",
+        "stations": []
+      },
+      {
+        "name": "Water Appeals Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/WAT/",
+        "stations": []
+      }
+    ]
+  },
+  {
+    "classification": "Intellectual Property Tribunals",
+    "courts": [
+      {
+        "name": "Copyright Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/CPT/",
+        "stations": []
+      },
+      {
+        "name": "Industrial Property Tribunal",
+        "link": "https://new.kenyalaw.org/judgments/KEIPT/",
+        "stations": []
+      }
+    ]
+  },
+  {
+    "classification": "Regional and International Courts",
+    "courts": [
+      {
+        "name": "African Court on Human and Peoples' Rights",
+        "link": "https://new.kenyalaw.org/judgments/AfCHPR/",
+        "stations": []
+      },
+      {
+        "name": "Continental Court",
+        "link": "https://new.kenyalaw.org/judgments/CT/",
+        "stations": []
+      }
+    ]
+  },
+  {
+    "classification": "Tribunals",
+    "courts": [
+      {
+        "name": "Civil and Human Rights Tribunals",
+        "link": "https://new.kenyalaw.org/judgments/court-class/civil-and-human-rights-tribunals/",
+        "stations": [
+          {
+            "name": "Communication and Multimedia Appeals Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KECMAT/"
+          },
+          {
+            "name": "Education Appeals Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KEEAT/"
+          },
+          {
+            "name": "HIV and AIDS Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KEHAT/"
+          },
+          {
+            "name": "Legal Education Appeals Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KELEAT/"
+          },
+          {
+            "name": "Political Parties Disputes Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KEPPDT/"
+          },
+          {
+            "name": "Sports Disputes Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KESDT/"
+          },
+          {
+            "name": "State Corporations Appeals Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KESCAT/"
+          }
+        ]
+      },
+      {
+        "name": "Commercial Tribunals",
+        "link": "https://new.kenyalaw.org/judgments/court-class/commercial-tribunals/",
+        "stations": [
+          {
+            "name": "Capital Markets Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KECMT/"
+          },
+          {
+            "name": "Competition Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KECT/"
+          },
+          {
+            "name": "Cooperative Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KECPT/"
+          },
+          {
+            "name": "Insurance Appeals Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KEIAT/"
+          },
+          {
+            "name": "Micro and Small Enterprises Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KEMSET/"
+          },
+          {
+            "name": "National Civil Aviation Administrative Review Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KENCCART/"
+          },
+          {
+            "name": "Standards Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KEST/"
+          },
+          {
+            "name": "Tax Appeal Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KETAT/"
+          },
+          {
+            "name": "Transport Licensing Appeals Board Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KETLABT/"
+          }
+        ]
+      },
+      {
+        "name": "Environment and Land Tribunals",
+        "link": "https://new.kenyalaw.org/judgments/court-class/environment-and-land-tribunals/",
+        "stations": [
+          {
+            "name": "Business Premises Rent Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KEBPRT/"
+          },
+          {
+            "name": "Energy & Petroleum Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KEET/"
+          },
+          {
+            "name": "Land Acquisition Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KELAT/"
+          },
+          {
+            "name": "National Environment Tribunal - Nairobi",
+            "link": "https://new.kenyalaw.org/judgments/KENET/"
+          },
+          {
+            "name": "Rent Restriction Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KERRT/"
+          },
+          {
+            "name": "Water Appeals Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/WAT/"
+          }
+        ]
+      },
+      {
+        "name": "Intellectual Property Tribunals",
+        "link": "https://new.kenyalaw.org/judgments/court-class/intellectual-property-tribunals/",
+        "stations": [
+          {
+            "name": "Copyright Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/CPT/"
+          },
+          {
+            "name": "Industrial Property Tribunal",
+            "link": "https://new.kenyalaw.org/judgments/KEIPT/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "classification": "Elections",
+    "courts": []
+  }
+]
